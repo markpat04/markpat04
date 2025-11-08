@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate data analyst</h3>
+<h3 align="center">A passionate data science</h3>
 
-- 🔭 I’m currently working on **Data analyst projects**
+- 🔭 I’m currently working on **Data science projects**
 
 - 🌱 I’m currently learning **Python, Machine learning**
 
