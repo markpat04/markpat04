@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data science projects**
 
-- 🌱 I’m currently learning **Python, Machine learning**
+- 🌱 I’m currently learning **Data Science Bootcamp**
 
 - 📫 How to reach me **mark254741@gmail.com**
 
