@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science Bootcamp**
 
-- 📫 How to reach me **mark254741@gmail.com**
+- 📫 How to reach me **pattarapol.van@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
