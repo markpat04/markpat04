@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">I'm an Engineering student</h3>
 
-- 🌱 I’m currently learning **Super AI Engineer Season 6**
+- 🌱 I am currently participating in **Super AI Engineer Season 6**.
 
 - 📫 How to reach me **pattarapol.van@gmail.com**
 
