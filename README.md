@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">I'm an AI Engineer</h3>
+<h3 align="center">I'm an Engineer</h3>
 
-- 🔭 I’m currently working on **Data science projects**
-
-- 🌱 I’m currently learning **Data Science Bootcamp**
+- 🌱 I’m currently learning **Super AI Engineer Season 6**
 
 - 📫 How to reach me **pattarapol.van@gmail.com**
 
